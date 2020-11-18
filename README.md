@@ -5,6 +5,7 @@ The codes are made for building program that generates alpha-balanced-tree, whic
 
 * How I did it :
 I have built several functions for the program.
+
 First off, I have built a tree class and a node class for the program. The node class constructs how a node looks like and the tree class hold the whole tree for us.
 
 Secondly, There are several public functions in the tree class so that we are able to call them in main.cpp. They are corresponding to BuildTree, Insert, Search, Delete, Print, and Done. the user is allowed to modify the test.txt file to control the program.
