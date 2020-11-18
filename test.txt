@@ -1,0 +1,46 @@
+BuildTree 0.75 53
+Print
+Insert 293
+Print
+Insert 2
+Print
+Insert 230
+Print
+Insert 8
+Print
+Insert 9
+Print
+Insert 266
+Print
+Insert 11
+Print
+Insert 560
+Print
+Insert 323
+Print
+Insert 326
+Print
+Insert 92
+Print
+Insert 185
+Print
+Insert 188
+Print
+Insert 227
+Print
+Insert 86
+Print
+Insert 3
+Print
+Insert 555
+Print
+Insert 372
+Print
+Insert 199
+Print
+Search 92
+Delete 92
+Print
+Delete 560
+Print
+Done
