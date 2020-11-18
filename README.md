@@ -1,5 +1,4 @@
 ##Name : Shang-Chun, Lin
-#Email : t90029t90029@gmail.com // shanglin@pdx.edu
 
 * description :
 The codes are made for building program that generates alpha-balanced-tree, which reads data from the external file "test.txt". It's like a BST but will rebuild when the tree is alpha-unbalanced.
